@@ -24,7 +24,7 @@ and continuously learning new things.
 - 🎓 Mathematics Student
 - 🌱 Always learning something new
 - 🔭 Currently working on personal projects
-- 💡 Interested in technology and software development
+- 💡 Interested in technology and Data
 - ⚡ Believe in consistency and continuous improvement
 
 ## 🛠️ Technologies & Tools
